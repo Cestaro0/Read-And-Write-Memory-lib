@@ -11,13 +11,13 @@
 1. Properies > VC directories > include directories - link to exemple: "C:\user\lib\include"
 2. Properies > VC directories > include library - link to exemple: "C:\user\lib\lib"
     
-<h3 align="center">Functions lib (static): </h3>
+<h3 align="center">Functions lib: </h3>
 		
-1. GetPid                                       (ReadWriteLib::ToolKit::GetPID)
-2. OpenProcessByName                            (ReadWriteLib::ToolKit::OpenProcessByName)
-3. GetModuleBaseAddress                         (ReadWriteLib::ToolKit::GetModuleBaseAddress)
-4. ReadMemoryOpcodes                            (ReadWriteLib::ToolKit::ReadMemoryOpcodes)
-5. WriteMemoryOpcodes                           (ReadWriteLib::ToolKit::WriteMemoryOpcodes)
+1. GetPid                                      
+2. OpenProcessByName                           
+3. GetModuleBaseAddress                         
+4. ReadMemoryOpcodes                            
+5. WriteMemoryOpcodes                          
 
 <h3 align="center">Base references: </h3>
 
