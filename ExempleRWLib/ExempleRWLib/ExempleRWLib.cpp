@@ -11,7 +11,7 @@
 		2. Properties > VC directories > include library - link to exemple: "C:\user\lib\lib"
 
 	Functions lib:
-		1. GetPid							(ReadWriteLib::ToolKit::GetPID)
+		1. GetPid					(ReadWriteLib::ToolKit::GetPID)
 		2. OpenProcessByName				(ReadWriteLib::ToolKit::OpenProcessByName)
 		3. GetModuleBaseAddress				(ReadWriteLib::ToolKit::GetModuleBaseAddress)
 		4. ReadMemoryOpcodes				(ReadWriteLib::ToolKit::ReadMemoryOpcodes)
