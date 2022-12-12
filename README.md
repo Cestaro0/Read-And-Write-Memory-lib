@@ -1,6 +1,6 @@
 # ReadAndWriteMemory-StaticLibToolKit
 
-# Enjoy :)
+<center> Enjoy :)</center>
  
  	Test based on the use of functions from the "Bypass-CrackMe-Cruehead" repository, 
 	with an example of how to make a simple crack in the "CrackMe" cruehead, through 
