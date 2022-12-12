@@ -2,7 +2,8 @@
 
 <h3 align="center"> Enjoy :)</h3>
  
- Test based on the use of functions from the "Bypass-CrackMe-Cruehead" repository, an example of how to make a simple crack in the "CrackMe" cruehead, through "rw" function library. 
+ Test based on the use of functions from the "Bypass-CrackMe-Cruehead" repository, 
+ an example of how to make a simple crack in the "CrackMe" cruehead, through "rw" function library. 
 	
 		
 <h3 align="center">STEPS: </h3>
