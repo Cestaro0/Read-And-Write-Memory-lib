@@ -13,13 +13,13 @@
     
 <h3 align="center">Functions lib (static): </h3>
 		
-1. GetPid					(ReadWriteLib::ToolKit::GetPID)
-2. OpenProcessByName				(ReadWriteLib::ToolKit::OpenProcessByName)
-3. GetModuleBaseAddress				(ReadWriteLib::ToolKit::GetModuleBaseAddress)
-4. ReadMemoryOpcodes				(ReadWriteLib::ToolKit::ReadMemoryOpcodes)
-5. WriteMemoryOpcodes				(ReadWriteLib::ToolKit::WriteMemoryOpcodes)
+1. GetPid                                       (ReadWriteLib::ToolKit::GetPID)
+2. OpenProcessByName                            (ReadWriteLib::ToolKit::OpenProcessByName)
+3. GetModuleBaseAddress                         (ReadWriteLib::ToolKit::GetModuleBaseAddress)
+4. ReadMemoryOpcodes                            (ReadWriteLib::ToolKit::ReadMemoryOpcodes)
+5. WriteMemoryOpcodes                           (ReadWriteLib::ToolKit::WriteMemoryOpcodes)
 
 <h3 align="center">Base references: </h3>
 
-https://github.com/keowu/KethoMemoryToolKit - codes 
+https://github.com/keowu/KethoMemoryToolKit - codes <br> 
 https://learn.microsoft.com/en-us/cpp/build/walkthrough-creating-and-using-a-static-library-cpp?view=msvc-170 - create static lib
