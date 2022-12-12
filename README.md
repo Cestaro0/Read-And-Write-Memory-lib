@@ -13,11 +13,11 @@
     
 <h3 align="center">Functions lib: </h3>
 		
-<p align="center">1. GetPid                                      
-2. OpenProcessByName                           
-3. GetModuleBaseAddress                         
-4. ReadMemoryOpcodes                            
-5. WriteMemoryOpcodes</p>
+<p align="center">1. GetPid<br>                                    
+2. OpenProcessByName<br>                           
+3. GetModuleBaseAddress <br>                        
+4. ReadMemoryOpcodes<br>                            
+5. WriteMemoryOpcodes</p><br>
 
 <h3 align="center">Base references: </h3>
 
