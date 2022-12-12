@@ -7,8 +7,8 @@
 
 		
 	STEPS:
-		1. Properies > VC directories > include directories - link to exemple: "C:\user\lib\include"
-		2. Properies > VC directories > include library - link to exemple: "C:\user\lib\lib"
+		1. Properties > VC directories > include directories - link to exemple: "C:\user\lib\include"
+		2. Properties > VC directories > include library - link to exemple: "C:\user\lib\lib"
 
 	Functions lib:
 		1. GetPid							(ReadWriteLib::ToolKit::GetPID)
