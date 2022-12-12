@@ -8,7 +8,7 @@
 		
 <h3 align="center">STEPS: </h3>
 	
-<p align="center">1. Properies > VC directories > include directories - link to exemple: "C:\user\lib\include"
+<p align="center">1. Properties > VC directories > include directories - link to exemple: "C:\user\lib\include"
 2. Properies > VC directories > include library - link to exemple: "C:\user\lib\lib"</p>
     
 <h3 align="center">Functions lib: </h3>
