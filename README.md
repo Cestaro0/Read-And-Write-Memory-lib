@@ -1,4 +1,4 @@
-# ReadAndWriteMemory-StaticLibToolKit
+Read-And-Write-Memory-lib
 
 <h3 align="center"> Enjoy :)</h3>
  
